@@ -1,1 +1,0 @@
-this folder contains the solution for the 'permissions' exercice.
