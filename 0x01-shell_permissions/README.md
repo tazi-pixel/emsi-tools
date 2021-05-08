@@ -1,1 +1,1 @@
-this folder contains the solution for the 'permissions' exercice.
+this is v0 blockchain project
